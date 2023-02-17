@@ -1,0 +1,5 @@
+com\glearning\tickettrackerapplication\controller\TicketTrackerController.class
+com\glearning\tickettrackerapplication\services\TicketTrackerService.class
+com\glearning\tickettrackerapplication\model\TicketTrackerEntity.class
+com\glearning\tickettrackerapplication\TicketTrackerApplication.class
+com\glearning\tickettrackerapplication\repository\TicketTrackerRepository.class
